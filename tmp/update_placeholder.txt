@@ -1,0 +1,4 @@
+Line 1935 needs to be changed from:
+                    <SelectValue placeholder="운동 단계를 선택하세요" />
+to:
+                    <SelectValue placeholder="선택하세요" />
